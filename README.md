@@ -1,6 +1,6 @@
 # Technology training and courses
-Free resources to learn and practice DevOps, BigData, Software Development and micro-services (.Net, Java, Go), Agile approaches 
-By [dareCode](https://www.darecode.com)
+A curated list of free resources to learn and practice DevOps, BigData, Agile approaches, Software Development and micro-services (.Net, Java, Go).
+Created by [dareCode](https://www.darecode.com) and available for any community member who love software development and technology.
 
 ## DevOps
 
