@@ -10,6 +10,7 @@ Created by [dareCode](https://www.darecode.com) and available for any community 
 
 
 ## Big Data
+[Udemy - Big data and Hadoop essentials](https://www.udemy.com/course/big-data-and-hadoop-essentials-free-tutorial/)  
 
 ## General software development
 [Curated list of code katas](https://github.com/gamontal/awesome-katas)
@@ -17,7 +18,7 @@ Created by [dareCode](https://www.darecode.com) and available for any community 
 ## .Net software development
 
 ## Java software development
-[Udemy - Java database connection JDBC and MySQL](https://www.udemy.com/course/how-to-connect-java-jdbc-to-mysql/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-RkNCy20eOc.xLjrXna5d4A)  
+[Udemy - Java database connection JDBC and MySQL](https://www.udemy.com/course/how-to-connect-java-jdbc-to-mysql)  
 
 ## NodeJS software development
 
