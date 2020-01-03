@@ -43,3 +43,6 @@ Created by [dareCode](https://www.darecode.com) and available for any community 
 | [Tensorflow - Your first image recognition algorithm](https://www.tensorflow.org/tutorials/keras/classification) | :star: :star: | :+1: :+1: |
 
 ## Agile
+| Element       | Expertise level | Quality |
+| ------------- |-------------| -----|
+| [Scrum.org - Self assessment. Test your agile knowledge](https://www.scrum.org/open-assessments) | :star: | :+1: :+1: |
