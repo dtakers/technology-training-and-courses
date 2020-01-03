@@ -5,10 +5,14 @@ By [dareCode](https://www.darecode.com)
 ## DevOps
 
 [adidas DevOps maturity framework](https://github.com/adidas/adidas-devops-maturity-framework/blob/master/framework/dmii.md)
+
 [DigitalOcean - Kubernetes for fullstack developers](https://www.digitalocean.com/community/curriculums/kubernetes-for-full-stack-developers)
 
 
 ## Big Data
+
+## General software development
+[Curated list of code katas](https://github.com/gamontal/awesome-katas)
 
 ## .Net software development
 
