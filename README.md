@@ -7,6 +7,7 @@ Created by [dareCode](https://www.darecode.com) and available for any community 
 | ------------- |-------------| -----|
 | [adidas DevOps maturity framework](https://github.com/adidas/adidas-devops-maturity-framework/blob/master/framework/dmii.md) | :star:  | :+1: |
 | [DigitalOcean - Kubernetes for fullstack developers](https://www.digitalocean.com/community/curriculums/kubernetes-for-full-stack-developers)    | :star: :star:      |   :+1: |
+| [Hands on learning with docker](https://labs.play-with-docker.com)    | :star: :star:      |   :+1: |
 
 ## Big Data
 | Element       | Expertise level | Quality |
