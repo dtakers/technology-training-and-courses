@@ -12,8 +12,7 @@ Created by [dareCode](https://www.darecode.com) and available for any community 
 ## Architecture & patterns
 | Element       | Expertise level | Quality |
 | ------------- |-------------| -----|
-| [FreeCodeCamp - Tutorial: Serverless BackEnd System](https://www.freecodecamp.org/news/complete-back-end-system-with-serverless/) | :star:  | :+1: |
-|
+| [FreeCodeCamp - Tutorial: Serverless BackEnd System](https://www.freecodecamp.org/news/complete-back-end-system-with-serverless/) | :star: :star: | :+1: |
 
 ## Big Data
 | Element       | Expertise level | Quality |
