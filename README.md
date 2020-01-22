@@ -26,6 +26,7 @@ Created by [dareCode](https://www.darecode.com) and available for any community 
 | [Learning git branching](https://learngitbranching.js.org) | :star::star:  | :+1::+1: |
 | [Curated list of code katas](https://github.com/gamontal/awesome-katas) | :star: | :+1: |
 | [Katakoda - Train and learn by tech katas](https://www.katacoda.com/) | :star: :star:  | :+1: :+1: |
+| [TinyHelpers - A collection of online tools for web developers](https://tiny-helpers.dev/) | :star: :star:  | :+1: :+1: |
 
 ## .Net software development
 
