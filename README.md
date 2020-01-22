@@ -28,6 +28,7 @@ Created by [dareCode](https://www.darecode.com) and available for any community 
 | [Katakoda - Train and learn by tech katas](https://www.katacoda.com/) | :star: :star:  | :+1: :+1: |
 | [TinyHelpers - A collection of online tools for web developers](https://tiny-helpers.dev/) | :star: :star:  | :+1: :+1: |
 | [HTTP requests tester and inspector](https://requestbin.com/) | :star: :star:  | :+1: :+1: :+1: |
+| [Free DB tester. Set up dynamic dbs for development.](https://www.db4free.net) | :star: :star:  | :+1: :+1: |
 
 ## .Net software development
 
