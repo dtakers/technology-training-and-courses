@@ -56,3 +56,8 @@ Created by [dareCode](https://www.darecode.com) and available for any community 
 | Element       | Expertise level | Quality |
 | ------------- |-------------| -----|
 | [Scrum.org - Self assessment. Test your agile knowledge](https://www.scrum.org/open-assessments) | :star: | :+1: :+1: |
+
+## Pilosophy/Knowledge
+| Element       | Expertise level | Quality |
+| ------------- |-------------| -----|
+| [Philosophy - Go proverbs](https://go-proverbs.github.io/) | :star: | :+1: :+1: |
