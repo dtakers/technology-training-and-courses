@@ -47,6 +47,7 @@ Created by [dareCode](https://www.darecode.com) and available for any community 
 | Element       | Expertise level | Quality |
 | ------------- |-------------| -----|
 | [DigitalOcean - How to code in Go](https://www.digitalocean.com/community/tutorial_series/how-to-code-in-go) | :star: :star: | :+1: |
+| [Medium blog - Collection of Go programming tutorials](https://blog.learngoprogramming.com/) | :star: :star: | :+1: |
 
 ## Artificial intelligence
 | Element       | Expertise level | Quality |
