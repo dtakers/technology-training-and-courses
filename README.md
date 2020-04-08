@@ -49,6 +49,13 @@ Created by [dareCode](https://www.darecode.com) and available for any community 
 | [DigitalOcean - How to code in Go](https://www.digitalocean.com/community/tutorial_series/how-to-code-in-go) | :star: :star: | :+1: |
 | [Medium blog - Collection of Go programming tutorials](https://blog.learngoprogramming.com/) | :star: :star: | :+1: |
 
+## Python software development
+
+| Element       | Expertise level | Quality |
+| ------------- |-------------| -----|
+| [Coursera - Learn to Progam: The Fundamentals](https://www.coursera.org/learn/learn-to-program) | :start: | |:+1: :+1: |
+| [Coursera - Learn to Progam: Crafting Quality Code](https://www.coursera.org/learn/program-code) | :start: | |:+1: :+1: |
+
 ## Artificial intelligence
 | Element       | Expertise level | Quality |
 | ------------- |-------------| -----|
