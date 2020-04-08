@@ -53,8 +53,8 @@ Created by [dareCode](https://www.darecode.com) and available for any community 
 
 | Element       | Expertise level | Quality |
 | ------------- |-------------| -----|
-| [Coursera - Learn to Progam: The Fundamentals](https://www.coursera.org/learn/learn-to-program) | :start: | :+1: :+1: |
-| [Coursera - Learn to Progam: Crafting Quality Code](https://www.coursera.org/learn/program-code) | :start: | :+1: :+1: |
+| [Coursera - Learn to Progam: The Fundamentals](https://www.coursera.org/learn/learn-to-program) | :star: | :+1: :+1: |
+| [Coursera - Learn to Progam: Crafting Quality Code](https://www.coursera.org/learn/program-code) | :star: | :+1: :+1: |
 
 ## Artificial intelligence
 | Element       | Expertise level | Quality |
