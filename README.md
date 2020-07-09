@@ -58,7 +58,7 @@ Created by [dareCode](https://www.darecode.com) and available for any community 
 | Element       | Expertise level | Quality |
 | ------------- |-------------| -----|
 | [Scrum.org - Self assessment. Test your agile knowledge](https://www.scrum.org/open-assessments) | :star: | :+1: :+1: |
-| [(Spanish) Comunidad Agile Youtube](https://www.youtube.com/channel/UCW0RxMXHndc_PH0wViqh3fw) | :star: | :+1: :+1: |
+| [(Spanish) Comunidad Agile Youtube](https://www.youtube.com/channel/UCW0RxMXHndc_PH0wViqh3fw) | :star: | :+1: |
 
 ## Pilosophy/Knowledge
 | Element       | Expertise level | Quality |
